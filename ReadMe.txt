@@ -8,6 +8,7 @@
 取得期間も容易に変更可能である。
 
 
+
 ■stock_rnn_simple.py
 AIを使って株価の予測値のグラフを出力するpythonスクリプト。
 ライブラリはkeras(backendはtensorflow)を使用している。
