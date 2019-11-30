@@ -21,7 +21,7 @@
 - [Anaconda3](https://www.anaconda.com/distribution/#download-section) (Python 3.7 version)
 
 
-# Setup & Usage
+# Usage
 Anaconda Prompt (Anaconda3)にてコマンド実施
 ## stock_crawler.py
 ```
